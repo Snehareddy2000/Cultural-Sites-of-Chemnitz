@@ -29,8 +29,8 @@ This is a web application developed as a term paper project for the course "Date
 - Web Browser (e.g., Chrome or Firefox)
 
 2. Steps: 
-- Clone the Repository: git clone https://github.com/your-username/cultural-sites-chemnitz.git, 
-                        cd cultural-sites-chemnitz
+- Clone the Repository: git clone https://github.com/Snehareddy2000/Cultural-Sites-of-Chemnitz.git, 
+                        cd Cultural-Sites-of-Chemnitz
 
 3. Set Up the MySQL Database:
 - Start XAMPP and enable Apache/MySQL.
